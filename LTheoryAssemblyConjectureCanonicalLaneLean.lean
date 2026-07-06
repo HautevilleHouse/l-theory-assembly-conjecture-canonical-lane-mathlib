@@ -1,0 +1,7 @@
+-- This module is the root of the LTheoryAssemblyConjectureCanonicalLaneLean Lean proof package.
+import LTheoryAssemblyConjectureCanonicalLaneLean.Basic
+import LTheoryAssemblyConjectureCanonicalLaneLean.SourcePackage
+import LTheoryAssemblyConjectureCanonicalLaneLean.SourceDependencies
+import LTheoryAssemblyConjectureCanonicalLaneLean.Formalization
+import LTheoryAssemblyConjectureCanonicalLaneLean.ReviewerBridge
+import LTheoryAssemblyConjectureCanonicalLaneLean.TheoremStatement
